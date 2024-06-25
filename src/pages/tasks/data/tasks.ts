@@ -1,21 +1,5 @@
 export const tasks = [
   {
-    id: "#29",
-    title: "June 8 - June 25",
-    status: "p29",
-    tfm: "g29",
-    label: "asdff",
-    priority: "medium"
-  },
-  {
-    id: "#28",
-    title: "April 11 - June 8 ",
-    status: "p28",
-    tfm: "g28",
-    label: "f",
-    priority: "medium"
-  },
-  {
     id: "#27",
     title: "March 5 - April 11",
     status: "p27",
